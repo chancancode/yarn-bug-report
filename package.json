@@ -5,7 +5,7 @@
   "author": "Godfrey Chan <godfreykfc@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "7.9.6",
+    "@babel/core": "7.4.4",
     "@babel/types": "7.4.4"
   }
 }
