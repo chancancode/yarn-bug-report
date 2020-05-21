@@ -1,0 +1,11 @@
+{
+  "name": "yarn-bug-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Godfrey Chan <godfreykfc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.9.6",
+    "@babel/types": "7.4.4"
+  }
+}
